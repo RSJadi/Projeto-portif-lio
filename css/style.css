@@ -1,0 +1,47 @@
+img {
+    width: 10%;
+    height: 10%;
+    margin-top: 30px;
+}
+
+body {
+    text-align: center;
+    background-color: #027373;
+    background-image: url("/images/jadi.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.barra {
+    background-color: rgb(94, 110, 94);
+    padding: 2%;
+    font-size: 85%;
+    display: flex;
+    justify-content: space-between;
+}
+
+p {
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: center;
+    font-size: 120%;
+}
+
+#form {
+    padding: 5px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.contato {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+a:hover {
+    color: #fff;
+    font-size: 100%;
+}
+
+.button:hover {
+    color: blue;
+    cursor: pointer;
+}
